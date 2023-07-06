@@ -102,7 +102,7 @@ const Sidebar = () => {
                             </Typography>
 
                             <Typography variant='h5' color={colors.greenAccent[500]}>
-                                VP Admin
+                                Admin
                             </Typography>
                         </Box>
                     </Box>
